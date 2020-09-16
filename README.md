@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi everyone! 
+### I am a person who grew up with a computer all his life :shipit:
+### Enthusiast of trips to the moon but not an astronaut :space_invader:
 <!--
 **dreamofguitar/dreamofguitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
